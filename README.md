@@ -86,7 +86,8 @@ slmgr /ato
 
 Shamim Hossain<br>
 sparrowmtm@gmail.com<br>
-[https://sparrowtech.org](https://sparrowtech.org)
+[https://sparrowtech.org](https://sparrowtech.org)<br>
+[Upwork Profile](https://upwork.com/freelancers/~019f659b0849b9115b)
 
 <br><br>
 Special thanks to [Mr Guang](https://msguides.com/) who is the maintainer of KMS system.
