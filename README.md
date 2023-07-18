@@ -86,8 +86,7 @@ slmgr /ato
 
 Shamim Hossain<br>
 sparrowmtm@gmail.com<br>
-[https://sparrowtech.org](https://sparrowtech.org)<br>
-+880 1758900389
+[https://sparrowtech.org](https://sparrowtech.org)
 
 <br><br>
 Special thanks to [Mr Guang](https://msguides.com/) who is the maintainer of KMS system.
